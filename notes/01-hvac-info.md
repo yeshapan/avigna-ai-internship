@@ -34,7 +34,7 @@ The continuous thermodynamic cycle follows four main stages:
     * The valve restricts flow ⇒ creates a sudden pressure drop
     * This flash-evaporates a small portion of the liquid ⇒ instantly lowers the temperature and pressure of the remaining refrigerant ⇒ prepares it to re-enter the evaporator.
 
-![Vapor Compression Refrigeration Cycle](../assets/Vapor-Compression-Refrigeration-Cycle.png)
+![Vapor Compression Refrigeration Cycle](assets/Vapor-Compression-Refrigeration-Cycle.png)
 
 ### **1.3 Key Physical Components**
 
@@ -65,7 +65,7 @@ A complete industrial chiller plant relies on several interconnected mechanical 
 5. **Thermal Expansion Valve (TXV/EEV)**: 
     * A precision metering device that regulates the exact amount of refrigerant entering the evaporator based on cooling load demands.
 
-![Chiller Diagram](../assets/chiller-diagram.png)
+![Chiller Diagram](assets/chiller-diagram.png)
 
 ### **1.4 Industrial Applications of Chiller Simulators**
 Simulators are essential in high-stakes environments 

@@ -42,7 +42,7 @@ Chiller is a cyclic state machine. It uses a liquid refrigerant to continuously 
 4. **Expansion Valve (Pressure Drop)**
     * High-pressure liquid is forced through a pinhole, rapidly dropping pressure and temperature to restart the cycle.
 
-![Chiller Diagram](../assets/chiller-diagram.png)
+![Chiller Diagram](assets/chiller-diagram.png)
 
 ### **The Simulator (Math → Synthetic Data)**
 Real-world chillers are too expensive to let fail. Datasets are heavily skewed (99.9% normal operation, 0.1% failure).
